@@ -15,3 +15,23 @@ server/package.json makes the server side work by:
 -Defining scripts so you can run the backend with easy commands like npm run dev
 
 -Controlling module behavior (with "type": "module")
+
+E
+______________________________________________________________
+
+Front end using Vite 
+http://localhost:5173/ -react on
+http://localhost:5000/ -server on
+
+
+________________________________________________________________
+
+
+run backend:
+cd $env:USERPROFILE\GitHub\website-portfolio\server
+npm run dev
+
+
+run front end:
+cd $env:USERPROFILE\GitHub\website-portfolio\client
+npm run dev
